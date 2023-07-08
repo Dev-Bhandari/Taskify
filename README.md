@@ -1,10 +1,14 @@
-# todo
+# Taskify - Task Organiser 
 
-A flutter app that organises tasks.
+Your ultimate task management app. Stay organized and prioritize tasks.
+
+Check out this app on [Google Play Store](https://play.google.com/store/apps/details?id=com.inventia.todo)
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
