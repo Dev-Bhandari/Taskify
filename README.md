@@ -2,9 +2,9 @@
 
 Your ultimate task management app. Stay organized and prioritize tasks.
 
-Check out this app on [Google Play Store](https://play.google.com/store/apps/details?id=com.inventia.todo)
+### Check out this app on Google Play Store
 
-<a href="https://play.google.com/store/apps/details?id=com.inventia.todo"><img src="http://url.to/image.png](https://github.com/Dev-Bhandari/Taskify/assets/52774043/cc3024eb-cc6a-4209-a22c-ec16c4c22312"  height = "250" width="646" ></a>
+<a href="https://play.google.com/store/apps/details?id=com.inventia.todo"><img src="https://github.com/Dev-Bhandari/Taskify/assets/52774043/cc3024eb-cc6a-4209-a22c-ec16c4c22312"  width="350" ></a>
 
 ## Getting Started
 
