@@ -143,13 +143,20 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
           ),
           _arrTask.isEmpty
-              ? const Padding(
-                  padding: EdgeInsets.only(top: 120),
-                  child: Center(
+              ? const Expanded(
+                  child: Column(children: [
+                  Spacer(
+                    flex: 2,
+                  ),
+                  Center(
                       child: Text(
                     "Add a Task",
                     style: TextStyle(fontSize: 18),
-                  )))
+                  )),
+                  Spacer(
+                    flex: 3,
+                  )
+                ]))
               : Expanded(
                   child: ListView.builder(
                     itemCount: _arrTask.length,
@@ -208,18 +215,6 @@ class _MyHomePageState extends State<MyHomePage> {
                                       : Icons.check_box_outline_blank,
                                   color: Colors.pink[600],
                                 ),
-                                // trailing: Container(
-                                //   height: 35,
-                                //   width: 35,
-                                //   decoration: BoxDecoration(
-                                //       color: Colors.red,
-                                //       borderRadius: BorderRadius.circular(5)),
-                                //   child: IconButton(
-                                //       iconSize: 18,
-                                //       icon: const Icon(Icons.delete),
-                                //       onPressed: () async {},
-                                //       color: Colors.white),
-                                // ),
                               )));
                     },
                   ),
