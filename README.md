@@ -21,4 +21,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Learning Outcome
+
+- Flutter
+- Shared Preferences
+   
 <img src = "https://github.com/Dev-Bhandari/Taskify/assets/52774043/4abd2e3d-25af-43a4-a941-74d30efcf684" height = "600">      <img src = "https://github.com/Dev-Bhandari/Taskify/assets/52774043/c35c43a4-7a97-4055-8089-b5441ffa6018" height = "600">
