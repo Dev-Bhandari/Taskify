@@ -2,7 +2,7 @@
 
 Your ultimate task management app. Stay organized and prioritize tasks.
 
-### Check out this app on Google Play Store
+## Check out this app on Google Play Store
 
 [<img alt = "Google Play Store Link" src="google-play-badge.png"  width="350" >](https://play.google.com/store/apps/details?id=com.inventia.todo&hl=en-IN)
 
